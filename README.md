@@ -1,5 +1,6 @@
 ## Disclaimer & Credits
 This repo mainly for demo purpose and used in one of React JS Malaysia meetup. Big credit to @graphcool-examples. Most of code for this demo are based on this repo: https://github.com/graphcool-examples/freecom-tutorial
+And, the code really for demo purpose, code is not clean, and probably not best practices and not intend for production usage :)
 
 ## What modification I made
 - Removed some freecom-tutorial code not going used in Demo
